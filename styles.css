@@ -1,0 +1,22 @@
+/* General */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Custom logo styling */
+  .logo img {
+    max-width: 200px;
+  }
+  
+  
+  
+  .lead {
+    color: #555555;
+  }
+  
